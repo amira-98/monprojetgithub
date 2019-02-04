@@ -1,0 +1,4 @@
+resume github : 
+github est un service en ligne qui propose un hebergement gratuit de tout repository open source et payant pour ceux qui sont privés
+gists= foçon de partager un code en ligne 
+issues = est utilisé pour signaler des problèmes 
