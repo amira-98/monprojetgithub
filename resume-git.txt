@@ -1,0 +1,7 @@
+ resume du git : 
+
+le git est un logiciel de versionning 
+il represente un modele distribue 
+installation : 
+git config--global user.name "amira"
+git config--global user.email "user@gmail.com"
